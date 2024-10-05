@@ -1,2 +1,2 @@
 # helloworld
-My first project
+Im learning git now
