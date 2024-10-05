@@ -1,2 +1,2 @@
 # helloworld
-Im learning git today
+Im learning git now
